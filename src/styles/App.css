@@ -1,1 +1,15 @@
+.parent{
+    width:70%;
+    background-color: lime;
+    padding: 2rem;
+    margin: 10px auto;
+}
 
+.child1 {
+    background-color:brown;
+    padding: 1rem;
+}
+.child2 {
+    background-color: yellow;
+    padding: 1rem;
+}
